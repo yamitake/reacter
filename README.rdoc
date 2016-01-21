@@ -2,4 +2,6 @@
 
 This is react-rails test with mongoid.
 
+heroku: https://reacter.herokuapp.com/
+
 respect https://github.com/joe-re/react-rails-tutorial
